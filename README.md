@@ -1,5 +1,5 @@
 # Deposit-IQ-Study
-This is a repository for a project in which I construct a LR model to predict admitted student enrollment behaviors. 
+This is a repository for a project in which I construct an LR model to predict admitted student enrollment behaviors. 
 
 Since the project is based on confidential data, I cannot make the original data avilable for analysis. 
 
